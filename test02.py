@@ -1,4 +1,5 @@
 a=int(input("enter a:"))
 b=int(input("enter b:"))
-c=a+b
-print(f"{a}+{b}={c}
+c=int(input("enter c:"))
+p=a*b*c
+print(f"{a}*{b}*{c}={p}")
